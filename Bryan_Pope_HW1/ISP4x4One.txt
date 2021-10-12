@@ -1,0 +1,5 @@
+4 4
+E E E E
+C C O E
+C O E O
+C E E E
